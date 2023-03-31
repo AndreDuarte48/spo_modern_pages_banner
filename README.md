@@ -1,6 +1,6 @@
 # Banner web part
 
-![banner](images/banner.png)
+![banner](images/banner_example.png)
 
 This web part provides you the ability to add a variable height image banner with a linkable title.
 **note** As of V2, this Banner webpart is hidden from the webpart toolbox and may be only added to a webpart using PowerShell or another automated deployment approach. This may be overwritten by updating the hiddenFromToolbox property to "false" found in [./src/webparts/banner/BannerWebPart.manifest.json](./src/webparts/banner/BannerWebPart.manifest.json).
